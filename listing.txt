@@ -1,0 +1,15 @@
+TITLE (max 30): Police Chase 3D
+SHORT DESCRIPTION (max 80): Escape the cops in a 3D city. Drift, collect coins, unlock new cars!
+CATEGORY: Games > Racing   (or Action)
+
+FULL DESCRIPTION:
+Hit the streets and outrun the police in a wild 3D city! Drift around corners, dodge buildings, smash through squad cars and grab every coin you can.
+- Endless, randomly shaped city with wide roads
+- Smart police that chase and box you in
+- Collect coins and buy new cars in the Shop: 11 cars from Sport and Pickup to Hypercar and Tank, each with its own speed and armor
+- Realistic engine, siren, tyre and crash sound effects
+- Touch controls, drift button, speedometer, minimap and health bar
+- Works offline. No ads. No data collected.
+
+CONTENT RATING NOTES: cartoon car crashes, no blood, no real brands.
+DATA SAFETY: no data collected or shared, no ads, no account.

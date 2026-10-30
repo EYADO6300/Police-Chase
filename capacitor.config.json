@@ -1,0 +1,8 @@
+{
+ "appId": "com.example.policechase",
+ "appName": "Police Chase 3D",
+ "webDir": "www",
+ "server": {
+  "androidScheme": "https"
+ }
+}

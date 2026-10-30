@@ -1,0 +1,15 @@
+{
+ "name": "police-chase",
+ "version": "1.0.0",
+ "private": true,
+ "scripts": {
+  "postinstall": "node scripts/copy-three.js"
+ },
+ "dependencies": {
+  "@capacitor/android": "latest",
+  "@capacitor/cli": "latest",
+  "@capacitor/core": "latest",
+  "three": "0.128.0",
+  "@fontsource/press-start-2p": "latest"
+ }
+}
